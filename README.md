@@ -12,13 +12,13 @@ Each row in the file represents an event. All events are related to products and
 - Lower activity during night hours
 - High engagement during special sales events
 - Recommendations: Optimize costs during low night-time activity, Capitalize on peak morning engagement, Enhance night sales through targeted promotions
-- 
+  
 **Customer Behavior**
 - Customers prefer lower-priced products
 - Most visits are for browsing only
 - Even frequent visitors often don't make purchases
 - Recommendations: Introduce features to engage "window shoppers" (e.g., quizzes, virtual try-ons, wish-lists), Focus on top ten most frequent visitors, Tailor marketing strategies for Gen X and Millennials
-- 
+  
 **Products and Brands Performance**
 - Best-selling brands and products remained consistent
 - Some products show low cart conversion rates
